@@ -14,7 +14,7 @@
   ],
   "parent": {
     "name": "Румы",
-    "path": "folders/Румы.yy",
+    "path": "folders/Расширения/Румы.yy",
   },
   "parentRoom": null,
   "physicsSettings": {

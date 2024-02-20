@@ -31,10 +31,10 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.11.0.121",
+    "IDEVersion": "2023.8.2.108",
   },
   "resources": [
-    {"id":{"name":"Player","path":"objects/Player/Player.yy",},},
+    {"id":{"name":"human","path":"objects/human/human.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],

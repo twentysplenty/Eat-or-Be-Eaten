@@ -16,6 +16,13 @@
     {"name":"Шрифты","order":7,"path":"folders/Шрифты.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"background","order":5,"path":"sprites/background/background.yy",},
+    {"name":"Sprite3left","order":4,"path":"sprites/Sprite3left/Sprite3left.yy",},
+    {"name":"Sprite3","order":3,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"game","order":2,"path":"objects/game/game.yy",},
+    {"name":"fullscreen","order":3,"path":"objects/fullscreen/fullscreen.yy",},
     {"name":"Sprite1","order":1,"path":"sprites/Sprite1/Sprite1.yy",},
+    {"name":"Sprite5","order":7,"path":"sprites/Sprite5/Sprite5.yy",},
+    {"name":"TileSet1","order":6,"path":"tilesets/TileSet1/TileSet1.yy",},
   ],
 }

@@ -34,8 +34,15 @@
     "IDEVersion": "2023.11.1.129",
   },
   "resources": [
+    {"id":{"name":"background","path":"sprites/background/background.yy",},},
+    {"id":{"name":"Sprite3left","path":"sprites/Sprite3left/Sprite3left.yy",},},
+    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
+    {"id":{"name":"game","path":"objects/game/game.yy",},},
+    {"id":{"name":"fullscreen","path":"objects/fullscreen/fullscreen.yy",},},
     {"id":{"name":"human","path":"objects/human/human.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
+    {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [

@@ -31,11 +31,13 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.11.1.129",
+    "IDEVersion": "2023.11.0.121",
   },
   "resources": [
+    {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},},
     {"id":{"name":"background","path":"sprites/background/background.yy",},},
     {"id":{"name":"Sprite3left","path":"sprites/Sprite3left/Sprite3left.yy",},},
+    {"id":{"name":"TileSet2","path":"tilesets/TileSet2/TileSet2.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
     {"id":{"name":"game","path":"objects/game/game.yy",},},
     {"id":{"name":"fullscreen","path":"objects/fullscreen/fullscreen.yy",},},

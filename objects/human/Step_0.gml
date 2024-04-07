@@ -13,7 +13,7 @@ else if keyboard_check(vk_left) or keyboard_check(ord("A"))
 else
 {sprite_index = Sprite3stand}
 
-//if keyboard_check(vk_up) or keyboard_check(ord("W"))
-//{y -= 5}
-//if keyboard_check(vk_down) or keyboard_check(ord("S"))
-//{y += 5}
+if (keyboard_check(vk_up) or keyboard_check(ord("W"))) and y > 820
+{y -= 5}
+if (keyboard_check(vk_down) or keyboard_check(ord("S"))) and y < 890
+{y += 5}

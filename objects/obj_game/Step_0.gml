@@ -3,7 +3,7 @@
 
 //слои фона
 var _distant = layer_get_id("bg_village_distant");
-var _still_near = layer_get_id("bg_village_still_near");
+var _middle = layer_get_id("bg_village_middle");
 //не используется в параллаксе, но пусть будет
 //var _near = layer_get_id("bg_village_near");
 
@@ -19,4 +19,4 @@ var _still_near = layer_get_id("bg_village_still_near");
 layer_x(_distant, lerp(0, camera_get_view_x(view_camera[0]), 0.85 )  );
 //Этот фон отстаёт на 30% от переднего плана - величина больше,
 //скорость изменения больше
-layer_x(_still_near, lerp(0, camera_get_view_x(view_camera[0]), 0.7 )  );
+layer_x(_middle, lerp(0, camera_get_view_x(view_camera[0]), 0.7 )  );
